@@ -14,3 +14,4 @@ CERT Insider Threat r4.2 (CMU). Source, licence and download date: TODO
 
 ## Status
 Phase 1: in progress
+.
