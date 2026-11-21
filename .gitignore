@@ -223,3 +223,28 @@ data/
 *.csv
 *.zip
 .ipynb_checkpoints/
+# ==========================================
+# CERT Insider Threat Dataset - Project Data
+# ==========================================
+
+# Raw dataset and incident evidence
+cert_r42/
+answers/
+data/
+
+# Processed datasets and caches
+*.parquet
+*.pkl
+
+# Dataset archives
+*.tar
+*.tar.bz2
+*.zip
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+
+# Temporary notebook files
+.ipynb_checkpoints/
